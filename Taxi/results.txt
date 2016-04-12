@@ -1,0 +1,7 @@
+id:1,km:100,Engine: good,100,1 
+front left:(5,15)
+front right:(15,5)
+rear right:(5,15)
+rear left:(5,15)
+Brain: 2
+Camera-1,gps,Camera-2,Camera-3,

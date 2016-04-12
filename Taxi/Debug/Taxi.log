@@ -1,0 +1,34 @@
+﻿  wheels.cpp
+  wheel.cpp
+  Taxi.cpp
+  main.cpp
+  Autotaxi.cpp
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(47): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(62): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(63): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(35): warning C4101: 'Eversion': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'thick2': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'thick1': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'radius4': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'power': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'id': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'thick3': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'radius1': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'radius3': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(35): warning C4101: 'Bversion': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'km': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'thick4': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(34): warning C4101: 'radius2': unreferenced local variable
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(114): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(115): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\almog\documents\visual studio 2015\projects\taxi\taxi\autotaxi.cpp(116): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  Generating Code...
+  Taxi.vcxproj -> c:\users\almog\documents\visual studio 2015\Projects\Taxi\Debug\Taxi.exe
